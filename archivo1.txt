@@ -1,2 +1,4 @@
 modifico el archivo1
 nueva línea desde la rama probando
+comentario 1 desde master
+comentario 2 desde la rama probando
